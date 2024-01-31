@@ -169,7 +169,7 @@ public class Main {
             System.out.println(e.getMessage());
         }*/
 
-
+/*
         Scanner scanner = new Scanner(System.in);
         System.out.print("Bir metin girin: ");
         String metin = scanner.nextLine();
@@ -200,7 +200,11 @@ public class Main {
             fileReader.close();
         } catch (Exception e) {
             System.out.println(e.getMessage());
-        }
+        }*/
+
+
+
+
 
 
     }
